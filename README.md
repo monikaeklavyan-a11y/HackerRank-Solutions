@@ -1,5 +1,5 @@
 # HackerRank-Solutions
-This Repository is store the solution of python at HackerRank platform solved by me...!
+This Repository stores the solution of python problems from HackerRank solved by me...!
 
 #About
 -:Platform-HackerRank
